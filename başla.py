@@ -90,7 +90,7 @@ Kali Linux Terminal Emulator
         stdscr.refresh()
 
         curses.echo()
-        command = stdscr.getstr(11, 5, 40).decode("utf-8").strip()
+        command = stdscr.getstr(11, 5, 1000).decode("utf-8").strip()
         curses.noecho()
 
         # Komutu işleyip ekrana yazdırıyoruz
