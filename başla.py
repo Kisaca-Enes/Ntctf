@@ -18,7 +18,7 @@ PORT     STATE SERVICE      VERSION
 21/tcp   open  ftp          vsftpd 3.0.3
 22/tcp   open  ssh          OpenSSH 8.2p1
 445/tcp  open  smb          Windows 10 Pro
-443/tcp  open  https        Apache httpd 2.4.41 (Ubuntu)
+80/tcp  open  http     Apache httpd 2.4.41 (Ubuntu)
 """
     elif "enum4linux" in command:
         output = """
