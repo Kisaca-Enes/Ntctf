@@ -2,3 +2,4 @@ ip:1.0.1.0.1
 Kullanabileceğiniz komutlar: nmap
 , john --wordlist=/usr/share/wordlists/rockyou.txt dosya.txt, 
 enum4linux, ftp, ssh, exit, cat ve http
+httpp baslatiij ve komutlari orta calistirin 
